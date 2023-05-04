@@ -1,2 +1,2 @@
 # JavaBasics
-Predavanje 6
+Predavanje 6, CODE by Cometrade
