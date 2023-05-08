@@ -2,8 +2,8 @@ public class IterativeStatements {
 
     public static void main(String[] args) {
 
-        int[] nizPromenljivih = {10, 20, 30, 40, 50, 60, 70, 80};
-        int whileIterator = 0;
+//        int[] nizPromenljivih = {10, 20, 30, 40, 50, 60, 70, 80};
+//        int whileIterator = 0;
 
 //        System.out.println(nizPromenljivih[7]);
 //
@@ -101,6 +101,7 @@ public class IterativeStatements {
             }
         }
     }
+
 }
 
 
