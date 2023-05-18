@@ -12,14 +12,14 @@ public class ObjectInit {
 //        double area = pravougaonik.calculateArea();
 //        System.out.println(area);
 
-        Appartment appartment = new Appartment(10, 15);
-        AreaCalculator calculator = new AreaCalculator(appartment);
-        System.out.println(calculator.appartmentArea());
-
-
-
-        StaticObject staticObject = new StaticObject();
-        staticObject.number = 10;
+//        Appartment appartment = new Appartment(10, 15);
+//        AreaCalculator calculator = new AreaCalculator(appartment);
+//        System.out.println(calculator.appartmentArea());
+//
+//
+//
+//        StaticObject staticObject = new StaticObject();
+//        staticObject.number = 10;
 
 
     }
