@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Vezba2 {
 
-    // Write a Java program that takes a number as input and prints itsmultiplication table up to 10
+    // Write a Java program that takes a number as input and prints it multiplication table up to 10
 
     public static void main(String[] args) {
 
